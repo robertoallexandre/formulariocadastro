@@ -12,7 +12,7 @@ body{
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     background: #0c0ce94d;
 }
 
@@ -28,7 +28,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2c2b2ad7;
+    background-color: #ee8319d7;
     padding: 1rem;
 }
 
